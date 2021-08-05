@@ -91,7 +91,7 @@ fun `test 1 with 2 with 3 with 4`() {
   `val str: String = inputStream.bufferedReader().use { it.readText() }`
 - Fully compatible with Junit 5
 - [Kdoc](https://kotlinlang.org/docs/kotlin-doc.html) supports markdown fo more readable documentation
-- Kotlin has its own libs except Java libs, there is a potential Kotlin-Native can be leveraged in future
+- Kotlin has its own libs/frameworks except Java libs/frameworks, there is a potential Kotlin-Native can be leveraged in future
 - Potential to improve general developer job satisfaction "Kotlin is the most loved programming language with a satisfaction average of 9.1 out of 10. https://www.jrebel.com/blog/java-development-tools-usage-stats
 - Using Kotlin could be interpreted as technical maturity and may help in attracting new talent
 
