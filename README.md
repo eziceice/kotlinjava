@@ -25,6 +25,7 @@ public Integer nullSafe(String str) {
     if (str != null) {  
         return str.length();  
   }  
+  ## Use Java 8 Optional API
     if (Optional.of(str).isPresent()) {  
         return str.length();  
   }  
