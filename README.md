@@ -60,6 +60,7 @@ data class Person(val name: String)
 - Easily understood by Java developers in comparison to some of the other JVM languages like Scala or Clojure.
 - Good conventions (all classes closed by default)
 - Good collections support (filtering, transforming, etc)
+- **gradle.kts**, no groovy anymore
 - Invariant Arrays
 - File and String support
 ```kotlin
